@@ -14,3 +14,5 @@ An AI Multi-Agent that will use to perform following task:
 - Groq Api for LLM Calls
 - MCP for Host, Client and Server Environment
 - Arize Phoenix for Agent Evaluation
+
+![Outline](Outline.png)
